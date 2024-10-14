@@ -28,7 +28,7 @@
 
 # Technologies:
 - Java 21 or above
-- Spring Boot 3.0
+- Spring Boot 3.3.4
 - Maven
 - PostgreSQL
 - Spring Data JPA
