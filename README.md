@@ -27,7 +27,7 @@
   - Authorization: <your_jwt>
 
 # Technologies:
-- Java 17 or above
+- Java 21 or above
 - Spring Boot 3.0
 - Maven
 - PostgreSQL
